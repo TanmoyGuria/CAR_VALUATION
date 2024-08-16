@@ -40,5 +40,5 @@ The AI model was built using the following steps:
 The final model was deployed using [Streamlit](https://streamlit.io/), enabling users to input car details and get an instant price prediction. The app is lightweight, easy to use, and accessible through a web browser.
 
 ## App Link
-[Link](https://car-and-bike.onrender.com)
+[Link](https://github.com/TanmoyGuria/CAR_VALUATION)
 
